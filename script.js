@@ -1,4 +1,4 @@
-const backendUrl = "http://localhost:3000"; //CAMBIAR
+const backendUrl = "https://parcial-ii-corte-be-rick-plazas.onrender.com"; //CAMBIAR -> Cambiado
 
 //Login automático con botón
 document.getElementById("loginBtn").addEventListener("click", async () => {
